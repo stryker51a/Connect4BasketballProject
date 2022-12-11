@@ -1,5 +1,8 @@
 # Connect4Basketball
 
+This project implents Connect4 Basketball in VR. It also uses networking allowing multiplayer functionality
+
+
 Packages Installed:
 
 Soccer Ball: https://assetstore.unity.com/packages/3d/low-polygon-soccer-ball-84382
