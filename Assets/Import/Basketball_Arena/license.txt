@@ -1,0 +1,8 @@
+Model Information:
+* title:	Basketball Arena
+* source:	https://sketchfab.com/3d-models/basketball-arena-68a1784b3ec5421f8d11f6bef24edb0e
+* author:	heng1210 (https://sketchfab.com/heng1210)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SoccerBall
+  - Obstacle
+  - 0
+  - 00
+  - 10
+  - 20
+  - 30
+  - 40
+  - 50
+  - 1
+  - 01
+  - 11
+  - 21
+  - 31
+  - 41
+  - 51
+  - 2
+  - 02
+  - 12
+  - 22
+  - 32
+  - 42
+  - 52
+  - 3
+  - 03
+  - 13
+  - 23
+  - 33
+  - 43
+  - 53
+  - 4
+  - 04
+  - 14
+  - 24
+  - 34
+  - 44
+  - 54
+  - 5
+  - 05
+  - 15
+  - 25
+  - 35
+  - 45
+  - 55
+  - 6
+  - 06
+  - 16
+  - 26
+  - 36
+  - 46
+  - 56
+  - basketball
+  - tealCube
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Grabbables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
